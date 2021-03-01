@@ -1,7 +1,7 @@
 # flowers_classification
 Recruitment task.
 
-How to set up an environment and launch notebook.
+How to set up an environment and launch a notebook:
 
 1. Install Python 3.
 2. Install requirements:
